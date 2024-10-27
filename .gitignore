@@ -1,6 +1,8 @@
 # Project files
 .data/
-
+.notes/
+.DS_STORE
+*.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
